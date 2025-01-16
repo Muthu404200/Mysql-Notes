@@ -75,4 +75,4 @@ MySQL is a popular open-source relational database management system widely used
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Muthu404200/mysql-notes.git
+   git clone https://github.com/Muthu404200/Mysql-Notes.git
