@@ -1,6 +1,7 @@
 # MySQL Notes 📘
 
 Welcome to my MySQL Notes repository! This repository contains a collection of essential notes, concepts, and practical examples for learning and mastering MySQL. Whether you're a beginner or looking to refresh your knowledge, these notes are a helpful resource.
+[View MySQL Notes PDF](./MYSQL.pdf)
 
 ---
 
